@@ -1,2 +1,2 @@
-# FULL-restaurant-web-app
+# FULL-Coffe shop-web-app
 restaurant application containing ( management ,cashier, report) aith (CRUD) operations.
